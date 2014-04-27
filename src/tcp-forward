@@ -1,2 +1,0 @@
-#!/bin/sh
-~/bin/tcpxd 3333 mume.org 443
